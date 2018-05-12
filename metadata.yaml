@@ -1,5 +1,5 @@
 _repo: The-Trojan-women-of-Euripides_10096
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Murray, Gilbert
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1681'
     url: http://www.gutenberg.org/2009/agents/1681
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Euripides
@@ -22,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Euripides
     - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10096#The-Trojan-women-of-Euripides
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
